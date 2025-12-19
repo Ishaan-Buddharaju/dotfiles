@@ -1,2 +1,5 @@
 --target=~/.config
 --ignore=stowrc
+--ignore=config_todo.MD
+
+
