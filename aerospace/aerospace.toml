@@ -86,7 +86,7 @@ on-mode-changed = []
     outer.left =       0
     outer.bottom =     0
     outer.top =        0
-    outer.right =      0
+    outer.right =      [{monitor.main = 70}, 0]
 
 # 'main' binding mode declaration
 # See: https://nikitabobko.github.io/AeroSpace/guide#binding-modes
